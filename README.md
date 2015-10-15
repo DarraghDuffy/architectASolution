@@ -6,7 +6,7 @@ Ability for users of your application to complete a video interview;
 solution requires the ability for participants to view and hear
 each other, a requirement for the interview to be recorded is also desirable.
 
-How would you approach
+How would you approach based on the following assumptions, technologies?
 
 
 ####Assumptions
